@@ -18,7 +18,7 @@
 <c:set var="viewData" value="<%= viewData %>"/>
 <html>
 <head>
-	<title>Github 메시지 목록</title>
+	<title>오래 메시지 목록</title>
 </head>
 <body>
 
